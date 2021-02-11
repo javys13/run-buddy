@@ -258,6 +258,12 @@ section {
     color: white;
 }
 
+.contact-info h3 {
+    color: #fce138
+    font-size: 32px;
+}
+
+
 /* Utility Classes Used*/
 .text-left {
     text-align: left;
